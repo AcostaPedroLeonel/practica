@@ -1,2 +1,7 @@
-*{color: darkkhaki;}
-h1{color: cadetblue;}
+*{background-color: rgb(232, 106, 106);}
+.contact-form{
+    font-size: 2em;
+    background-color: black;
+   border-color: blue;
+   border-radius: 50%;
+}
