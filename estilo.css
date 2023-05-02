@@ -1,7 +1,12 @@
-*{background-color: rgb(232, 106, 106);}
-.contact-form{
-    font-size: 2em;
-    background-color: black;
-   border-color: blue;
-   border-radius: 50%;
+*{background-color: rgb(154, 148, 148);}
+.contact-form {
+    border: 10px;
+    border-color: black;
+}
+.contact-form__h2 {
+    font-size: 3em;
+    font-family:Lobster, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.5;
+    font-weight: 700;
+    color: red;
 }
